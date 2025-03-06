@@ -10,3 +10,5 @@
 - **useEditDistance**: Set to `true` and adjust **maxEditDistance** to define how many single-character changes make words distinct.  
 
 That’s it! Test the script, schedule it, and enjoy your restored Exact Match precision. 🚀
+
+Courtesy of: https://searchengineland.com/when-exact-match-isnt-exact-anymore-a-script-to-regain-control-307975
